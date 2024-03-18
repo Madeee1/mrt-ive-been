@@ -1,6 +1,12 @@
-# Nuxt 3 Minimal Starter
+# MRTs I've been
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+A project created to help people keep track of which MRTs in Singapore they have visited
+
+## Pending Features
+1. LTA's MRT map
+2. Action to mark an MRT as visited
+3. User Authentication
+4. Backend database to store MRTs visited between sessions
 
 ## Setup
 
